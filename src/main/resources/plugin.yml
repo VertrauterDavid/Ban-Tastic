@@ -1,0 +1,15 @@
+name: BanTastic
+version: 1.0
+api-version: 1.20
+main: net.vertrauterdavid.ban.BanTastic
+author: VertrauterDavid
+website: https://vertrauterdavid.net/ & https://github.com/vertrauterdavid/
+
+commands:
+  ban:
+  unban:
+  banlist:
+  mute:
+  unmute:
+  mutelist:
+  check:
